@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: pyurlextract
+Version: 1.1
+Summary: A library to expand Short URL with all possible redirections
+Home-page: https://github.com/Deadpool2000/pyurlextract
+Author: Deadpool2000
+Author-email: d2kyt@protonmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
 # pyurlextract
 
 **pyurlextract** is a Python library that extracts all possible links and redirections from any shortened URL. It helps in expanding short links to reveal their full URLs and potential redirections.
